@@ -1,56 +1,64 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi there 👋, I'm [Nama Kamu]</h1>
-<h3 align="center">Jamstack Developer | Hugo & Jekyll Enthusiast | Tailwind CSS lover</h3>
+<h1 align="center">
+  Hi there! I'm [Nama Kamu] 👋
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=JAMStack+Developer;Hugo+%7C+Jekyll+%7C+Tailwind+CSS;Building+fast+and+beautiful+websites" alt="Typing SVG" />
+</h1>
 
 ---
 
-🌍 **About Me**
+### ✨ About Me
 
-- 🔭 I’m currently working on building modern, fast, and secure websites using **Hugo**, **Jekyll**, and **Tailwind CSS**.
-- 🌱 I’m diving deeper into **JAMStack architecture**, **multilingual support**, and **responsive UI design**.
-- ⚡ Fun fact: I love building minimal themes and custom components with clean code.
+I'm a JAMStack developer who enjoys building elegant, high-performance, and accessible websites using **Hugo**, **Jekyll**, and **Tailwind CSS**.
 
 ---
 
-🛠 **Tech Stack**
+### 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,git,github,jekyll,hugo,linux,vscode&perline=8" />
+#### 🔹 [Hugo Multilingual Starter](https://github.com/username/hugo-multilingual-starter)
+> Hugo starter with multilingual support, dark mode, dropdown menu, and responsive navbar.
+
+#### 🔹 [Jekyll Portfolio Theme](https://github.com/username/jekyll-portfolio-theme)
+> Clean and minimal Jekyll theme for personal portfolios — built with Tailwind CSS.
+
+#### 🔹 [Tailwind Components Collection](https://github.com/username/tailwind-components)
+> Reusable UI components ready for Tailwind 4.1 projects.
+
+#### 🔹 [DevTools Snippets](https://github.com/username/devtools-snippets)
+> Handy snippets for JAMStack and front-end development.
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,hugo,jekyll,tailwind,git,github,vscode,linux&perline=9" />
 </p>
 
 ---
 
-📂 **Featured Projects**
-
-- 🧩 [**Hugo Multilingual Starter**](#)  
-  Starter template for multilingual sites with responsive navbar and dark mode.
-
-- 🎨 [**Tailwind UI Components**](#)  
-  A collection of reusable, beautiful components built with Tailwind 4.
-
----
-
-📫 **How to reach me**
-
-- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/username)
-- 🐦 Follow me on [Twitter](https://twitter.com/username)
-- 📬 Email: [youremail@example.com](mailto:youremail@example.com)
-
----
-
-🧠 **Currently Learning**
-
-- 🌐 Astro, Eleventy, and more static site generators
-- ⚙️ Automation with GitHub Actions
-- 🔒 Best practices for SEO & performance in static sites
-
----
-
-✨ _Thank you for visiting my profile!_
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=username&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Contact
+
+- 🌐 [yourwebsite.dev](https://yourwebsite.dev)
+- 📬 [youremail@example.com](mailto:youremail@example.com)
+- 🐦 [Twitter](https://twitter.com/username)
+- 💼 [LinkedIn](https://linkedin.com/in/username)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 <!--
