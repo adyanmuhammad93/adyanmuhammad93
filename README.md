@@ -1,43 +1,63 @@
-<!-- GitHub Profile README -->
+<!-- GitHub Profile README with Metro UI Style -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+%5BNama+Kamu%5D+%F0%9F%91%8B;JAMStack+Developer+%7C+Hugo+%7C+Jekyll+%7C+Tailwind+CSS;Building+fast+%26+beautiful+websites" alt="Typing SVG" />
+<p align="center">
+  <img src="https://your-banner-url.com/metro-banner.png" alt="Metro Banner" />
+</p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&duration=3000&pause=1000&color=0078D7&center=false&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+%5BNama+Kamu%5D+%F0%9F%91%8B;JAMStack+Developer+%7C+Hugo+%7C+Jekyll+%7C+Tailwind+CSS;Metro-inspired+Web+Development" alt="Typing SVG" />
 
-## ✨ About Me
+---
 
-I'm a JAMStack developer passionate about clean code, minimal UI, and lightning-fast websites.  
-My tools of choice are **Hugo**, **Jekyll**, and **Tailwind CSS**.  
-I enjoy building themes, components, and starter templates that help other developers move faster.
+## 🟦 About Me
+
+> A JAMStack developer with a passion for Metro-inspired UI, building clean and fast websites using **Hugo**, **Jekyll**, and **Tailwind CSS**.
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🔹 Hugo Multilingual Starter  
-🧰 **Tech**: Hugo, Tailwind CSS, i18n  
-📌 Features: dark mode, dropdown nav, responsive design  
-🔗 [View on GitHub »](https://github.com/username/hugo-multilingual-starter)
-
----
-
-### 🔹 Jekyll Portfolio Theme  
-🧰 **Tech**: Jekyll, Tailwind, Liquid  
-📌 A minimal portfolio theme with clean structure and responsive layout  
-🔗 [View on GitHub »](https://github.com/username/jekyll-portfolio-theme)
-
----
-
-### 🔹 Tailwind Components Collection  
-🧰 **Tech**: Tailwind CSS 4.1  
-📌 Reusable, accessible, and beautiful components for rapid development  
-🔗 [View on GitHub »](https://github.com/username/tailwind-components)
-
----
-
-### 🔹 DevTools Snippets  
-🧰 **Tech**: JAMStack, JS, HTML  
-📌 Handy snippets for quick setup, templating, and automation  
-🔗 [View on GitHub »](https://github.com/username/devtools-snippets)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟩 Hugo Multilingual Starter</h3>
+      <ul>
+        <li>🌐 Multilingual Ready</li>
+        <li>🌙 Dark Mode</li>
+        <li>📱 Responsive + Dropdown</li>
+      </ul>
+      <a href="https://github.com/username/hugo-multilingual-starter">🔗 View on GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🟥 Jekyll Portfolio Theme</h3>
+      <ul>
+        <li>🧼 Minimal Design</li>
+        <li>📦 Easy Setup</li>
+        <li>📸 Image Grid Support</li>
+      </ul>
+      <a href="https://github.com/username/jekyll-portfolio-theme">🔗 View on GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🟨 Tailwind Components</h3>
+      <ul>
+        <li>📚 40+ UI Components</li>
+        <li>🎨 Themeable</li>
+        <li>🧩 Drop-in Ready</li>
+      </ul>
+      <a href="https://github.com/username/tailwind-components">🔗 View on GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🟪 DevTools Snippets</h3>
+      <ul>
+        <li>⚡ JAMStack Helpers</li>
+        <li>💡 SEO Meta Tags</li>
+        <li>🔧 Shortcodes</li>
+      </ul>
+      <a href="https://github.com/username/devtools-snippets">🔗 View on GitHub</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -49,11 +69,11 @@ I enjoy building themes, components, and starter templates that help other devel
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=username&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=gruvbox_light&hide_border=true" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=username&theme=gruvbox_light&hide_border=true" width="49%" />
 </div>
 
 ---
@@ -67,19 +87,6 @@ I enjoy building themes, components, and starter templates that help other devel
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=username&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-
-<!--
-**adyanmuhammad93/adyanmuhammad93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=username&label=Views&color=0078D7&style=flat" />
+</p>
