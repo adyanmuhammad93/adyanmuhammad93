@@ -1,53 +1,53 @@
 <!-- GitHub Profile README -->
 
-<h1 align="center">Hi, I'm Adyan 👋</h1>
-<h3 align="center">JAMStack Developer • Hugo & Jekyll Specialist • Tailwind CSS Enthusiast</h3>
+<h1 align="center">Hi there 👋, I'm [Nama Kamu]</h1>
+<h3 align="center">Jamstack Developer | Hugo & Jekyll Enthusiast | Tailwind CSS lover</h3>
 
 ---
 
-### 🚀 About Me
+🌍 **About Me**
 
-I'm a passionate web developer focused on building fast, secure, and elegant websites using **JAMStack** technologies — especially **Hugo**, **Jekyll**, and **Tailwind CSS**. I love crafting themes, reusable components, and developer-friendly templates.
-
----
-
-### 🧩 Featured Projects
-
-#### 🔹 [Hugo Multilingual Starter](https://github.com/username/hugo-multilingual-starter)
-A production-ready Hugo template with multilingual support, responsive navbar, dark mode, and dropdown menus.
-
-#### 🔹 [Jekyll Portfolio Theme](https://github.com/username/jekyll-portfolio-theme)
-Minimal and stylish Jekyll theme for personal portfolios — built with Tailwind CSS and fully responsive.
-
-#### 🔹 [Tailwind Components Collection](https://github.com/username/tailwind-components)
-A curated collection of modern UI components ready to drop into any Tailwind 4.1 project.
-
-#### 🔹 [DevTools Snippets](https://github.com/username/devtools-snippets)
-Useful front-end and JAMStack code snippets for rapid development and prototyping.
+- 🔭 I’m currently working on building modern, fast, and secure websites using **Hugo**, **Jekyll**, and **Tailwind CSS**.
+- 🌱 I’m diving deeper into **JAMStack architecture**, **multilingual support**, and **responsive UI design**.
+- ⚡ Fun fact: I love building minimal themes and custom components with clean code.
 
 ---
 
-### 🛠 Tech Stack
+🛠 **Tech Stack**
 
-- **Static Site Generators**: Hugo, Jekyll
-- **Styling**: Tailwind CSS 4.1, PostCSS
-- **Version Control**: Git, GitHub
-- **Tools**: VS Code, Netlify, Vite, Linux
-
----
-
-### 📫 Get in Touch
-
-- 🌐 [yourwebsite.dev](https://yourwebsite.dev)
-- 📬 [youremail@example.com](mailto:youremail@example.com)
-- 🐦 [Twitter](https://twitter.com/username)
-- 💼 [LinkedIn](https://linkedin.com/in/username)
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=default" alt="GitHub Stats" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,git,github,jekyll,hugo,linux,vscode&perline=8" />
 </p>
+
+---
+
+📂 **Featured Projects**
+
+- 🧩 [**Hugo Multilingual Starter**](#)  
+  Starter template for multilingual sites with responsive navbar and dark mode.
+
+- 🎨 [**Tailwind UI Components**](#)  
+  A collection of reusable, beautiful components built with Tailwind 4.
+
+---
+
+📫 **How to reach me**
+
+- 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/username)
+- 🐦 Follow me on [Twitter](https://twitter.com/username)
+- 📬 Email: [youremail@example.com](mailto:youremail@example.com)
+
+---
+
+🧠 **Currently Learning**
+
+- 🌐 Astro, Eleventy, and more static site generators
+- ⚙️ Automation with GitHub Actions
+- 🔒 Best practices for SEO & performance in static sites
+
+---
+
+✨ _Thank you for visiting my profile!_
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="username" />
