@@ -1,5 +1,13 @@
 <!-- GitHub Profile README -->
 
+<p align="center">
+  <img src="https://your-banner-url.com/banner.png" alt="JAMStack Developer Banner" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+%5BNama+Kamu%5D+%F0%9F%91%8B;JAMStack+Developer+%7C+Hugo+%7C+Jekyll+%7C+Tailwind+CSS;Building+fast+%26+beautiful+websites" alt="Typing SVG" />
+
+---
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=false&vCenter=true&multiline=true&width=600&lines=Hi%2C+I'm+%5BNama+Kamu%5D+%F0%9F%91%8B;JAMStack+Developer+%7C+Hugo+%7C+Jekyll+%7C+Tailwind+CSS;Building+fast+%26+beautiful+websites" alt="Typing SVG" />
 
 ---
