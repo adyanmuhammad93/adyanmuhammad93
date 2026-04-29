@@ -1,5 +1,5 @@
 # ADYAN MUHAMMAD
-**Full Stack Developer** — *Building for the web since 2014.*
+**Full Stack Developer** — *Building for the web since 2013.*
 
 ---
 
@@ -39,13 +39,3 @@
 </table>
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adyanmuhammad93&show_icons=true&theme=transparent&hide_border=true&title_color=666&icon_color=888&text_color=888" height="150" />
-  <br>
-  <img src="https://img.shields.io/badge/Focus-Clean_Code_&_Performance-000?style=flat-square" />
-</div>
-
-<p align="center">
-  <font color="grey" size="2">"Adapt, focus, and build things that matter."</font>
-</p>
